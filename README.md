@@ -69,7 +69,7 @@ This repo is evolving — feel free to:
 ## 🔗 Stay in Touch
 
 - 🌐 Blog: [techwithmohamed.com](https://techwithmohamed.com)
-- 🌐 Linkedin: [Mohamed BEN HASSINE](https://techwithmohamed.com)
+- 🌐 Linkedin: [Mohamed BEN HASSINE](https://www.linkedin.com/in/mohamedbnhassine/)
 - 📬 Contact: Use GitHub Issues or reach out via the blog
 - 💬 Discussions: Coming soon
 
